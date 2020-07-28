@@ -1,0 +1,7 @@
+FOR= Se utiliza para repetir algoritmos determinada cantidad de veces, 
+	contiene paramentros para frenarlo.
+&&= Es equivalente a "y" compara si 2 expresiones son verdaderas, en ese caso devuelve TRUE y se ejecuta.
+	de lo contrario, devuelve FALSE, NO se ejecuta.
+||= Es equivalente a "o", y  y si por lo menos una de las dos expresiones es verdadera, devuelve un TRUE y se ejecuta.
+	Si ambas son  falsas, devuelve FALSE, NO se ejecuta.
+!= Es equivalente a NOT. Ejemplo: NOT FALSE entonces es TRUE. Ejemplo: !== no es igual a
