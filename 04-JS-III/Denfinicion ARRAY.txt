@@ -1,0 +1,3 @@
+ARRAY= Es una lista de elemenos. Dentro puede contener cualquier tipo de valores, 
+	incluso lista y funciones a las que puede llamar y utlizar.
+	Pueden ser accedidos a traves de un indice. Los indices comienzan en 0.
